@@ -357,7 +357,7 @@ h4 {
   width: 100%;
   height: 100vh;
   margin-bottom: -90px;
-  background: linear-gradient(rgba(55, 142, 181, 0.5), rgba(55, 142, 181, 0.2)), url("../img/Thoughts\ bgr.jpg") top center;
+  background: linear-gradient(rgba(55, 142, 181, 0.4), rgba(55, 142, 181, 0.1)), url("../img/Thoughts\ bgr.png") top center;
   background-size: cover;
   position: relative;
 }
@@ -366,7 +366,7 @@ h4 {
   width: 100%;
   height: 100vh;
   margin-bottom: -90px;
-  background: linear-gradient(rgba(55, 142, 181, 0.5), rgba(55, 142, 181, 0.2)), url("../img/wellbeing.jpg") top center;
+  background: linear-gradient(rgba(55, 142, 181, 0.3), rgba(55, 142, 181, 0.1)), url("../img/wellbeing.jpg") top center;
   background-size: cover;
   position: relative;
 }
@@ -375,7 +375,7 @@ h4 {
   width: 100%;
   height: 100vh;
   margin-bottom: -90px;
-  background: linear-gradient(rgba(55, 142, 181, 0.5), rgba(55, 142, 181, 0.2)), url("../img/cta-bg.jpg") top center;
+  background: linear-gradient(rgba(55, 142, 181, 0.2), rgba(185, 140, 57, 0.5)), url("../img/cta-bg.jpg") top center;
   background-size: cover;
   position: relative;
 }
@@ -384,7 +384,7 @@ h4 {
   width: 100%;
   height: 100vh;
   margin-bottom: -90px;
-  background: linear-gradient(rgba(55, 142, 181, 0.5), rgba(55, 142, 181, 0.2)), url("../img/funsection.jpg") top center;
+  background: linear-gradient(rgba(55, 142, 181, 0.4), rgba(55, 142, 181, 0.1)), url("../img/funsection.jpg") top center;
   background-size: cover;
   position: relative;
 }
@@ -904,4 +904,8 @@ section {
   outline:#444444;
   padding: 12px 16px;
   align-content:center;
+}
+
+#myBtnContainer {
+  padding-bottom: 25px;
 }
